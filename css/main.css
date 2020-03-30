@@ -1,0 +1,33 @@
+
+body {
+    font-family: Spectral, serif;
+}
+a, a:hover {
+    text-decoration: none;
+}
+/*header*/
+#header {
+    background: linear-gradient(#7DE3D8 100px, transparent);
+}
+.logo > h1 > a {
+    font-family: Tangerine, cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: #800080;
+}
+.logo > h1 > a:hover {
+    color: #bd4a8e;
+}
+.menu > li {
+    list-style: none;
+    display: inline-block;
+}
+.menu > li > a {
+    font-family: Pattaya, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    color: #2C535E;
+}
+.menu > li > a:hover {
+    color: #5a8fa1;
+}

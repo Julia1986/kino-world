@@ -1,0 +1,21 @@
+@media only screen and (min-width: 1200px) {
+/*header*/
+#header {
+    height: 250px;
+    padding-top: 50px;
+}
+.logo > h1 > a {
+    font-size: 80px;
+}
+.menubar {
+    text-align: right;
+}
+.menu li {
+    margin-top: 38px;
+}
+.menu > li > a {
+    font-size: 25px;
+    padding: 10px 15px;
+    margin: 0 15px 0 15px;
+}
+}
