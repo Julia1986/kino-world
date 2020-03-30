@@ -9,13 +9,13 @@
         font-size: 50px;
     }
     .menubar {
-        text-align: right;
+        text-align: left;
     }
     .menu li {
         margin-top: 22px;
     }
     .menu > li > a {
-        font-size: 20px;
+        font-size: 18px;
         padding: 5px;
         margin: 0 10px;
     }
