@@ -1,0 +1,22 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+/*header*/
+#header {
+    background: linear-gradient(#7DE3D8 60px, transparent);
+    height: 200px;
+    padding-top: 30px;
+}
+.logo > h1 > a {
+    font-size: 70px;
+}
+.menubar {
+    text-align: left;
+}
+.menu li {
+    margin-top: 35px;
+}
+.menu > li > a {
+    font-size: 22px;
+    padding: 10px 10px;
+    margin: 0 10px 0 10px;
+}
+}
